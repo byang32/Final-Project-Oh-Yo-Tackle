@@ -1,0 +1,74 @@
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\ApplicationInsights.config
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\csc.exe
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\System.Collections.Immutable.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\vbc.exe
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\VBCSCompiler.exe
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\roslyn\VBCSCompiler.exe.config
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\ohYoTackle.dll.config
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\ohYoTackle.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\ohYoTackle.pdb
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.Web.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.WindowsServer.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.ApplicationInsights.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.Web.xml
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.AI.WindowsServer.xml
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.ApplicationInsights.xml
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\obj\Debug\ohYoTackle.csprojResolveAssemblyReference.cache
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\obj\Debug\ohYoTackle.dll
+c:\users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\obj\Debug\ohYoTackle.pdb
+C:\Users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\EntityFramework.dll
+C:\Users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\EntityFramework.SqlServer.dll
+C:\Users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\EntityFramework.xml
+C:\Users\beeya\documents\visual studio 2015\Projects\ohYoTackle\ohYoTackle\bin\EntityFramework.SqlServer.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\ApplicationInsights.config
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\csc.exe
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\vbc.exe
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\VBCSCompiler.exe
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\ohYoTackle.dll.config
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\ohYoTackle.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\ohYoTackle.pdb
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\EntityFramework.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\EntityFramework.SqlServer.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.Web.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.ApplicationInsights.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\EntityFramework.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\EntityFramework.SqlServer.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.Web.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.ApplicationInsights.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\obj\Debug\ohYoTackle.csprojResolveAssemblyReference.cache
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\obj\Debug\ohYoTackle.dll
+C:\Users\beeya\Desktop\ohYoTackle\ohYoTackle\obj\Debug\ohYoTackle.pdb

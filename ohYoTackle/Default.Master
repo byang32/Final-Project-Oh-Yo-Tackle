@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.Master.cs" Inherits="ohYoTackle.ohYo" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>OhYo Tackle</title>
+    <link href="CSS/ohYo.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Mogra|Oswald|Open+Sans+Condensed:300" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+    
+</head>
+    
+<body>
+    <div id="wrapper">
+       <header>
+           <h1>OhYO Tackle</h1>
+       </header>
+   
+    <form id="form1" runat="server">
+    
+    <asp:Menu ID="MainNavigation" runat="server" DataSourceID="MainNavigationDS" Orientation="Horizontal" CssClass="MainNavigation" Font-Size="15" Font-Underline="True" StaticSelectedStyle-CssClass="MainNavigation" BorderColor="#0033CC" BorderStyle="Inset" BorderWidth="1px" DynamicSelectedStyle-BorderStyle="Solid" ForeColor="#99FF33" DynamicMenuItemStyle-BorderStyle="Inset" DynamicHoverStyle-BorderStyle="Inset" DynamicMenuStyle-BorderStyle="Inset"></asp:Menu>
+    
+    
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+    </div>
+    </form>
+    
+    
+    <div id="footer">
+      <p style="height: 64px; width: 655px">
+      <small>Copyright &copy; OhYoTackle 2016</small></p>
+    </div>
+    
+    <asp:SiteMapDataSource ID="MainNavigationDS" runat="server" ShowStartingNode="False" />
+</div>
+</body>
+</html>
